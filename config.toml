@@ -41,3 +41,11 @@ fa_icon = "fa-twitter"
 [[params.social]]
 url = "/index.xml"
 fa_icon = "fa-rss"
+
+# les autres liens sont définies depuis les front-matter des content/pages elles même
+[[menu.main]]
+    name = "Accueil"
+    pre = "<i class='fa fa-heart'></i>"
+    weight = -110
+    identifier = "accueil"
+    url = "/"
