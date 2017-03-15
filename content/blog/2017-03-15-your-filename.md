@@ -1,6 +1,9 @@
 ---
 published: false
-title: ''
+title: Untitled
+slug: slug
+tags:
+  - test
 ---
 ## A New Post
 
