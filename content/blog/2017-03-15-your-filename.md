@@ -1,10 +1,14 @@
 ---
 published: false
-title: Untitled
+title: Test de nouveau post
 slug: slug
-tags:
-  - test
 ---
 ## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Ajout d'un post de test
+
+![correze-trail.jpg]({{site.baseurl}}/static/images/correze-trail.jpg)
+
+
+
+
