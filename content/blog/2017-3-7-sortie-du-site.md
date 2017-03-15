@@ -2,6 +2,7 @@
 draft = false
 date = "2017-03-07"
 title = "Sortie du site"
+url = "sortie-du-site"
 author = "Yann"
 +++
 

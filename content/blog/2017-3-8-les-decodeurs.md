@@ -4,6 +4,7 @@ date = "2017-03-08"
 title = "Le suivi des Décodeurs sur la campagne présidentielle"
 tags = ["opendata"]
 author = "Yann"
+url = "les-decodeurs"
 +++
 
 Les décodeurs du monde.fr ont écrit et mettent à jour régulièrement un excellent article qui propose de nombreux graphiques sur les présidentielles en cours, <a target="_blank" href="http://www.lemonde.fr/les-decodeurs/visuel/2017/03/07/sondages-parrainages-meetings-temps-de-parole-quatre-indicateurs-pour-suivre-la-campagne-presidentielle_5090550_4355770.html">à consulter ici</a>

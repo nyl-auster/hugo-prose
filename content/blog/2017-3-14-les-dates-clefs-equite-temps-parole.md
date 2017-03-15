@@ -3,6 +3,7 @@ draft = false
 date = "2017-03-14"
 title = "Comprendre l'équité de temps de parole pendant la campagne présidentielle 2017"
 tags = ["opendata"]
+url = "les-dates-clefs-equite-temps-parole"
 author = "Yann"
 +++
 

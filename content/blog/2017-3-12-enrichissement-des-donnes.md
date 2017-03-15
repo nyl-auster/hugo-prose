@@ -4,6 +4,7 @@ date = "2017-03-12"
 title = "Enrichissement des données du site"
 tags = ["opendata"]
 author = "Yann"
+url = "enrichissement-des-donnes"
 +++
 <p>
 Le site existera depuis une petite semaine d'ici demain, nous avons déjà néanmoins réussi à effectuer un gros travail de traitement sur les données et pouvons mettre à disposition <a href="/api-json">tout plein de JSON</a> dont l'exploitation permettra de générer des synthèses parlantes sur l'équité de temps de parole d'antenne à la présidentielle 2017.
