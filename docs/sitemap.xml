@@ -2,88 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/posts/</loc>
+    <loc>https://nyl-auster.github.io/hugo-prose/posts/</loc>
     <lastmod>2017-03-15T22:54:29+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>https://nyl-auster.github.io/hugo-prose/contact/</loc>
     <lastmod>2017-03-15T22:54:29+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/json-api/</loc>
+    <loc>https://nyl-auster.github.io/hugo-prose/json-api/</loc>
     <lastmod>2017-03-15T22:54:29+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/qui-sommes-nous/</loc>
+    <loc>https://nyl-auster.github.io/hugo-prose/qui-sommes-nous/</loc>
     <lastmod>2017-03-15T22:54:29+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/sources/</loc>
+    <loc>https://nyl-auster.github.io/hugo-prose/sources/</loc>
     <lastmod>2017-03-15T22:54:29+01:00</lastmod>
   </url>
   
   <url>
-    <loc>les-dates-clefs-equite-temps-parole</loc>
+    <loc>https://nyl-auster.github.io/hugo-prose/les-dates-clefs-equite-temps-parole</loc>
     <lastmod>2017-03-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>reforme-du-temps-de-parole</loc>
+    <loc>https://nyl-auster.github.io/hugo-prose/reforme-du-temps-de-parole</loc>
     <lastmod>2017-03-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>enrichissement-des-donnes</loc>
+    <loc>https://nyl-auster.github.io/hugo-prose/enrichissement-des-donnes</loc>
     <lastmod>2017-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>les-decodeurs</loc>
+    <loc>https://nyl-auster.github.io/hugo-prose/les-decodeurs</loc>
     <lastmod>2017-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>sortie-du-site</loc>
+    <loc>https://nyl-auster.github.io/hugo-prose/sortie-du-site</loc>
     <lastmod>2017-03-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/pages/posts-redirect/</loc>
+    <loc>https://nyl-auster.github.io/hugo-prose/pages/posts-redirect/</loc>
   </url>
   
   <url>
-    <loc>/tags/opendata/</loc>
+    <loc>https://nyl-auster.github.io/hugo-prose/tags/opendata/</loc>
     <lastmod>2017-03-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/pages/</loc>
+    <loc>https://nyl-auster.github.io/hugo-prose/pages/</loc>
     <lastmod>2017-03-15T22:54:29+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>https://nyl-auster.github.io/hugo-prose/posts/</loc>
     <lastmod>2017-03-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/pages/a-propos/</loc>
+    <loc>https://nyl-auster.github.io/hugo-prose/pages/a-propos/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://nyl-auster.github.io/hugo-prose/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://nyl-auster.github.io/hugo-prose/</loc>
     <lastmod>2017-03-15T22:54:29+01:00</lastmod>
     <priority>0</priority>
   </url>
