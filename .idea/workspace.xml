@@ -34,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/config.toml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="51" lean-forward="false" selection-start-line="0" selection-start-column="51" selection-end-line="0" selection-end-column="51" />
+              <caret line="0" column="50" lean-forward="false" selection-start-line="0" selection-start-column="50" selection-end-line="0" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -510,12 +510,12 @@
       <workItem from="1489531547592" duration="433000" />
       <workItem from="1489532001536" duration="124000" />
       <workItem from="1489583293872" duration="1737000" />
-      <workItem from="1489596470098" duration="12851000" />
+      <workItem from="1489596470098" duration="12939000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15145000" />
+    <option name="totallyTimeSpent" value="15233000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="795" extended-state="6" />
@@ -980,7 +980,7 @@
     <entry file="file://$PROJECT_DIR$/config.toml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="51" lean-forward="false" selection-start-line="0" selection-start-column="51" selection-end-line="0" selection-end-column="51" />
+          <caret line="0" column="50" lean-forward="false" selection-start-line="0" selection-start-column="50" selection-end-line="0" selection-end-column="50" />
           <folding />
         </state>
       </provider>

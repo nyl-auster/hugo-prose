@@ -1,4 +1,4 @@
-baseurl = "https://nyl-auster.github.io/hugo-prose/"
+baseurl = "https://nyl-auster.github.io/hugo-prose"
 languageCode = "fr"
 title = "Équité de temps de parole"
 theme = "equiteparole"
