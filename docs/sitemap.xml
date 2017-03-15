@@ -2,39 +2,89 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/blog/2017-3-14-les-dates-clefs-equite-temps-parole/</loc>
+    <loc>/posts/</loc>
+    <lastmod>2017-03-15T22:54:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+    <lastmod>2017-03-15T22:54:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/json-api/</loc>
+    <lastmod>2017-03-15T22:54:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/qui-sommes-nous/</loc>
+    <lastmod>2017-03-15T22:54:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sources/</loc>
+    <lastmod>2017-03-15T22:54:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>les-dates-clefs-equite-temps-parole</loc>
     <lastmod>2017-03-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2017-3-14-reforme-du-temps-de-parole/</loc>
+    <loc>reforme-du-temps-de-parole</loc>
     <lastmod>2017-03-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2017-3-12-enrichissement-des-donnes/</loc>
+    <loc>enrichissement-des-donnes</loc>
     <lastmod>2017-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2017-3-8-les-decodeurs/</loc>
+    <loc>les-decodeurs</loc>
     <lastmod>2017-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2017-3-7-sortie-du-site/</loc>
+    <loc>sortie-du-site</loc>
     <lastmod>2017-03-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/</loc>
+    <loc>/pages/posts-redirect/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/opendata/</loc>
     <lastmod>2017-03-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/pages/</loc>
+    <lastmod>2017-03-15T22:54:29+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
     <lastmod>2017-03-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/pages/a-propos/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2017-03-15T22:54:29+01:00</lastmod>
     <priority>0</priority>
   </url>
   

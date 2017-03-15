@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="fr">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta content="keyword 1, keyword 2, keyword 3" name="keywords">
+<meta content="Morten G. Johansen" name="author">
+<meta property="og:title" content="JSON API - Équité de temps de parole">
+<meta property="og:url" content="/json-api/">
+<meta property="og:description" content="Your description here">
+<meta property="og:type" content="website" />
+<title>JSON API | Équité de temps de parole</title>
+<link rel="stylesheet" href="/css/style.css">
+<link rel="shortcut icon" href="/wave.ico">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/styles/github.min.css">
+
+
+<section class="section">
+  <div class="container">
+    <nav class="nav">
+      <div class="nav-left">
+        <a class="nav-item" href=""><h1 class="title is-4">Équité de temps de parole</h1></a>
+      </div>
+      <div class="nav-right">
+        <nav class="nav-item level is-mobile">
+          
+          <a class="level-item" href="https://github.com/equite-parole/equite-parole.github.io" target="_blank">
+            <span class="icon">
+              <i class="fa fa-github"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="https://www.facebook.com/equitetempsdeparole/" target="_blank">
+            <span class="icon">
+              <i class="fa fa-facebook"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="https://twitter.com/equiteparole" target="_blank">
+            <span class="icon">
+              <i class="fa fa-twitter"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="/index.xml" target="_blank">
+            <span class="icon">
+              <i class="fa fa-rss"></i>
+            </span>
+          </a>
+          
+        </nav>
+      </div>
+    </nav>
+  </div>
+</section>
+
+<nav class="container sidebar-nav">
+  
+  
+  <a class="sidebar-nav-item" href="/">Accueil</a>
+  
+  <a class="sidebar-nav-item" href="/posts/">Blog</a>
+  
+  <a class="sidebar-nav-item" href="/contact/">Contact</a>
+  
+  <a class="sidebar-nav-item active" href="/json-api/">JSON API</a>
+  
+  <a class="sidebar-nav-item" href="/qui-sommes-nous/">Qui sommes nous</a>
+  
+</nav>
+
+<section class="section">
+  <div class="container">
+    <h1 class="title">JSON API</h1>
+
+    <div class="content">
+      <p>
+<strong>Les temps de paroles et temps d'antenne des candidats à la présidentielle 2017 sous forme de JSON</strong>.
+Vous pouvez requêtez directement ces urls pour les consommer sur votre site web.
+</p>
+
+<p><em>Note : les temps indiqués dans les json sont soit en secondes, soit en format lisible (ex : 01h 20min 5s). Il n&rsquo;y a jamais de minutes.</em></p>
+
+<h2>Du 1 février au 05 mars 2017</h2>
+
+<!--
+<a href="/api/v1/2017-02-01--2017-03-05/releves-cumul-global.json">
+ Une synthèse des temps de paroles et d'antenne jusqu'à ce jour.
+</a>
+<br />
+-->
+
+<p><a href="/api/v1/releves-par-periode.json">
+  Tous les relevés cumulés classés par période avec les infos exhaustives
+</a>
+<br /></p>
+
+<h2>Du 1 Février 2017 au 26 Février 2017 </h2>
+
+<p><a href="/api/v1/2017-02-01--2017-02-26/chaines-generalistes.json">Sur les chaînes généralistes</a>
+<br /></p>
+
+<p><a href="/api/v1/2017-02-01--2017-02-26/chaines-generalistes-candidats-chaines.json">
+Temps d&rsquo;antenne passé par chaque candidat sur chaque chaine
+</a>
+<br /></p>
+
+<p><a href="/api/v1/2017-02-01--2017-02-26/chaines-generalistes-candidats-chaines.json">
+Temps d&rsquo;antenne accordé par chaque chaine aux différents candidats
+</a>
+  <br /></p>
+
+    </div>
+    
+  </div>
+</section>
+
+<section class="section">
+  <div class="container has-text-centered">
+    <p></p>
+  </div>
+</section>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js" integrity="sha256-KbfTjB0WZ8vvXngdpJGY3Yp3xKk+tttbqClO11anCIU=" crossorigin="anonymous"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/languages/go.min.js"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/languages/dockerfile.min.js"></script>
+
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-93181041-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
+
+

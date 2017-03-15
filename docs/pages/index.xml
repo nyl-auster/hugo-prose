@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Équité de temps de parole</title>
+    <link>/pages/index.xml</link>
+    <description>Recent content in Pages on Équité de temps de parole</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 15 Mar 2017 22:54:29 +0100</lastBuildDate>
+    <atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Blog</title>
+      <link>/posts/</link>
+      <pubDate>Wed, 15 Mar 2017 22:54:29 +0100</pubDate>
+      
+      <guid>/posts/</guid>
+      <description>&lt;div class=&#34;posts&#34;&gt;
+  {% for post in site.posts %}
+    &lt;article class=&#34;post&#34;&gt;
+      &lt;h1&gt;&lt;a href=&#34;{{ site.baseurl }}{{ post.url }}&#34;&gt;{{ post.title }}&lt;/a&gt;&lt;/h1&gt;
+      &lt;div class=&#34;entry&#34;&gt;
+        {{ post.excerpt }}
+      &lt;/div&gt;
+      &lt;a href=&#34;{{ site.baseurl }}{{ post.url }}&#34; class=&#34;read-more&#34;&gt;Lire plus&lt;/a&gt;
+    &lt;/article&gt;
+  {% endfor %}
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Wed, 15 Mar 2017 22:54:29 +0100</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>
+
+&lt;h3 id=&#34;nous-contacter-par-mail&#34;&gt;Nous contacter par mail&lt;/h3&gt;
+
+&lt;p&gt;Des suggestions d&amp;rsquo;améliorations, des questions, des bugs ?&lt;/p&gt;
+
+&lt;p&gt;Vous pouvez nous envoyer un email à partir de cette page :&lt;/p&gt;
+
+&lt;p&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://yineo.fr/contact&#34;&gt;&lt;a href=&#34;https://yineo.fr/contact&#34;&gt;https://yineo.fr/contact&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JSON API</title>
+      <link>/json-api/</link>
+      <pubDate>Wed, 15 Mar 2017 22:54:29 +0100</pubDate>
+      
+      <guid>/json-api/</guid>
+      <description>&lt;p&gt;
+&lt;strong&gt;Les temps de paroles et temps d&#39;antenne des candidats à la présidentielle 2017 sous forme de JSON&lt;/strong&gt;.
+Vous pouvez requêtez directement ces urls pour les consommer sur votre site web.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note : les temps indiqués dans les json sont soit en secondes, soit en format lisible (ex : 01h 20min 5s). Il n&amp;rsquo;y a jamais de minutes.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2&gt;Du 1 février au 05 mars 2017&lt;/h2&gt;
+
+&lt;!--
+&lt;a href=&#34;/api/v1/2017-02-01--2017-03-05/releves-cumul-global.json&#34;&gt;
+ Une synthèse des temps de paroles et d&#39;antenne jusqu&#39;à ce jour.
+&lt;/a&gt;
+&lt;br /&gt;
+--&gt;
+
+&lt;p&gt;&lt;a href=&#34;/api/v1/releves-par-periode.json&#34;&gt;
+  Tous les relevés cumulés classés par période avec les infos exhaustives
+&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2&gt;Du 1 Février 2017 au 26 Février 2017 &lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;/api/v1/2017-02-01--2017-02-26/chaines-generalistes.json&#34;&gt;Sur les chaînes généralistes&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/api/v1/2017-02-01--2017-02-26/chaines-generalistes-candidats-chaines.json&#34;&gt;
+Temps d&amp;rsquo;antenne passé par chaque candidat sur chaque chaine
+&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/api/v1/2017-02-01--2017-02-26/chaines-generalistes-candidats-chaines.json&#34;&gt;
+Temps d&amp;rsquo;antenne accordé par chaque chaine aux différents candidats
+&lt;/a&gt;
+  &lt;br /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Qui sommes nous</title>
+      <link>/qui-sommes-nous/</link>
+      <pubDate>Wed, 15 Mar 2017 22:54:29 +0100</pubDate>
+      
+      <guid>/qui-sommes-nous/</guid>
+      <description>&lt;p&gt;Bastien, Floris et Yann à Nantes, Jean-cédric Thérond à Paris : nous sommes des développeurs soucieux de rendre lisible et accessible à toutes et tous les données de l&amp;rsquo;équité de temps de parole des candidats à la présidentielle 2017.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sources</title>
+      <link>/sources/</link>
+      <pubDate>Wed, 15 Mar 2017 22:54:29 +0100</pubDate>
+      
+      <guid>/sources/</guid>
+      <description>&lt;p&gt;Ci-dessous la liste des sources utilisées pour créer les données fournies par notre site :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a target=&#34;_blank&#34; href=&#34;http://www.csa.fr/Television/Le-suivi-des-programmes/Le-pluralisme-politique-et-les-campagnes-electorales/L-election-presidentielle-2017/Les-temps-de-parole-et-d-antenne&#34;&gt;Les sources originales des données sur le site du CSA&lt;/a&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;a target=&#34;_blank&#34; href=&#34;https://github.com/nyl-auster/equite-parole-datas&#34;&gt;Dépot github des sources du traitement de données du CSA&lt;/a&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;a target=&#34;_blank&#34; href=&#34;https://github.com/equite-parole/equite-parole.github.io&#34;&gt;Dépôt github de notre site.&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>/pages/posts-redirect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/posts-redirect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pourquoi ce site ?</title>
+      <link>/pages/a-propos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/a-propos/</guid>
+      <description>&lt;p&gt;
+
+  Le CSA met à disposition en libre service les données sur les temps d&#39;antenne et les temps de parole des candidats à la présidentielle 2017. Hélas les formats de fichiers et la manière dont ils sont découpés rend leur exploitation difficile et impose des opérations manuelles fastidieuses pour en tirer des données utilisables à des fins statistiques.&lt;/p&gt;
+  
+
+&lt;p&gt;&lt;p&gt;Ce site effectue un traitement automatique de ces fichiers du CSA pour en fournir des versions très faciles à consommer et à exploiter par les sites webs sous forme &lt;a href=&#34;/json-api&#34;&gt;de JSON&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;p&gt;Il sera enrichi jusqu&amp;rsquo;aux élections.&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
