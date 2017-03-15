@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Category on Strange title</title>
-    <link>https://nyl-auster.github.io/categories/category/index.xml</link>
+    <link>https://nyl-auster.github.io/hugo-prose/categories/category/index.xml</link>
     <description>Recent content in Category on Strange title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>&amp;copy; 2017 | Follow on &lt;a href=&#34;https://twitter.com/mgjohansen&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt; | &lt;a href=&#34;https://github.com/mgjohansen/hucore.git&#34; target=&#34;_blank&#34;&gt;Hucore theme&lt;/a&gt; &amp; &lt;a href=&#34;http://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; ♥</copyright>
-    <atom:link href="https://nyl-auster.github.io/categories/category/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nyl-auster.github.io/hugo-prose/categories/category/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>test</title>
-      <link>https://nyl-auster.github.io/coucou</link>
+      <link>https://nyl-auster.github.io/hugo-prose/coucou</link>
       <pubDate>Wed, 15 Mar 2017 17:25:13 +0100</pubDate>
       
-      <guid>https://nyl-auster.github.io/coucou</guid>
+      <guid>https://nyl-auster.github.io/hugo-prose/coucou</guid>
       <description>&lt;p&gt;test md&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>new site</title>
-      <link>https://nyl-auster.github.io/new-site</link>
+      <link>https://nyl-auster.github.io/hugo-prose/new-site</link>
       <pubDate>Tue, 14 Mar 2017 23:51:41 +0100</pubDate>
       
-      <guid>https://nyl-auster.github.io/new-site</guid>
+      <guid>https://nyl-auster.github.io/hugo-prose/new-site</guid>
       <description>&lt;p&gt;this is my new site :D&lt;/p&gt;
 </description>
     </item>
