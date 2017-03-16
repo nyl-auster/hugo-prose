@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://nyl-auster.github.io/hugo-prose/posts/</loc>
+    <loc>https://nyl-auster.github.io/hugo-prose/news/</loc>
     <lastmod>2017-03-15T22:54:29+01:00</lastmod>
   </url>
   
@@ -49,10 +49,6 @@
   <url>
     <loc>https://nyl-auster.github.io/hugo-prose/sortie-du-site</loc>
     <lastmod>2017-03-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nyl-auster.github.io/hugo-prose/pages/posts-redirect/</loc>
   </url>
   
   <url>
