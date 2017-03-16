@@ -4,13 +4,11 @@
 
 <section class="section">
   <div class="container">
-    <h1 class="title">{{ .Title }}</h1>
-
-    <div class="content">
-      {{ .Content }}
-    </div>
-    
+    {{ block "main" . }}
+    <!-- The part of the page that begins to differ between templates -->
+    {{ end }}
   </div>
 </section>
 
+{{ partial "pager" . }}
 {{ partial "footer" . }}
